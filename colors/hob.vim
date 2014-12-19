@@ -11,7 +11,7 @@ let colors_name = "hob"
 
 hi Comment	    guifg=#6e6e6e    ctermfg=242    gui=none    cterm=none 
 hi Constant	    guifg=#d4d4d4    ctermfg=160    gui=none    cterm=none 
-hi Cursor	    guibg=#000000    ctermbg=231    guifg=#a0a0a0    ctermfg=247    gui=none    cterm=none 
+hi Cursor	    guibg=#6b6b6b    ctermbg=231    guifg=#e8e8e8    ctermfg=247    gui=none    cterm=none 
 hi CursorLine	    guifg=#319df5    ctermfg=237    guibg=#232323    ctermbg=234    gui=none    cterm=none 
 hi ColorColumn	    guifg=#ffffff    ctermfg=231    guibg=#787878    ctermbg=242    gui=none    cterm=none 
 hi Directory	    guifg=#d1d1d1    ctermfg=252    gui=none    cterm=none 
