@@ -2,14 +2,13 @@ hob-vim-theme
 =============
 
 A Dark VIM theme with a hint of blue.
--------------------------------------
 
-## Easy Install Guide: (Using Vundle)
+Install Guide:
+--------------
 
 ### If you are using Vundle:
 
 1. Open up .vimrc file and append:
-
 " hob theme
 Plugin 'remythemsen/hob-vim-theme'
 
@@ -30,7 +29,6 @@ colorscheme hob
 3. Move hob.vim into your "colors" folder.
 
 4. Open up your VIM source file, (.vimrc) and set:
-
 colorscheme hob
 
 5. Restart VIM or Reload source file.
