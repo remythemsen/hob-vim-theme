@@ -35,5 +35,5 @@ hi Title	    guifg=#b6b8b7    ctermfg=249    gui=none    cterm=none
 hi Todo	    guifg=#849479    ctermfg=89    gui=none    cterm=none 
 hi Type	    guifg=#569cd6    ctermfg=239    gui=none    cterm=none 
 hi Underlined	    guifg=#80a0ff    ctermfg=89    gui=underline    cterm=underline 
-hi VertSplit	    guibg=#c2bfa5     ctermbg=07    guifg=#7777777    ctermfg=231    gui=none    cterm=none 
+hi VertSplit	    guibg=#c2bfa5     ctermbg=07    guifg=#777777    ctermfg=231    gui=none    cterm=none 
 hi Visual	    guifg=#cccccc    ctermfg=252    guibg=#333333    ctermbg=237    gui=none    cterm=none 
