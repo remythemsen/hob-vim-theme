@@ -14,8 +14,7 @@ Plugin 'remythemsen/hob-vim-theme'
 
 2. Open VIM and type: :PluginInstall
 
-3. Open up your VIM source file, (.vimrc) and set:
-
+3. Open up your VIM source file, (.vimrc) and add to it in a new line:
 colorscheme hob
 
 4. Restart VIM or Reload source file.
@@ -28,7 +27,7 @@ colorscheme hob
 
 3. Move hob.vim into your "colors" folder.
 
-4. Open up your VIM source file, (.vimrc) and set:
+4. Open up your VIM source file, (.vimrc) and add to it in a new line:
 colorscheme hob
 
 5. Restart VIM or Reload source file.
