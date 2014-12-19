@@ -36,4 +36,9 @@ hi Todo	    guifg=#849479    ctermfg=89    gui=none    cterm=none
 hi Type	    guifg=#569cd6    ctermfg=239    gui=none    cterm=none 
 hi Underlined	    guifg=#80a0ff    ctermfg=89    gui=underline    cterm=underline 
 hi VertSplit	    guibg=#c2bfa5     ctermbg=07    guifg=#777777    ctermfg=231    gui=none    cterm=none 
-hi Visual	    guifg=#cccccc    ctermfg=252    guibg=#333333    ctermbg=237    gui=none    cterm=none 
+hi Visual	    guifg=#d6d6d6    ctermfg=255    guibg=#00afff  ctermbg=39    gui=none    cterm=none 
+hi Pmenu guifg=#bcbcbc ctermfg=250 guibg=#3a3a3a ctermbg=237 gui=none cterm=none 
+hi PmenuSel guifg=#ffffff    ctermfg=255    guibg=#00afff  ctermbg=39    gui=none    cterm=none 
+hi PmenuSbar guifg=#808080 ctermfg=244 guibg=#585858 ctermbg=240 gui=none cterm=none 
+hi PmenuThumb guifg=#808080 ctermfg=244 guibg=#808080 ctermbg=244 gui=none cterm=none 
+hi Search guifg=#ffffff ctermfg=255 guibg=#870000 ctermbg=88 gui=none cterm=none 
