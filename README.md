@@ -3,6 +3,8 @@ hob-vim-theme
 
 A Dark VIM theme with a hint of blue.
 
+note: This theme currently only works in GUI Vim's, like MacVim and GVIM.
+
 Install Guide:
 --------------
 
